@@ -1,0 +1,14 @@
+{
+  "name": "pharaohs-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "resend": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
